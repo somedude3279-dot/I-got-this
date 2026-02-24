@@ -1,0 +1,7 @@
+{
+  "name": "Spot The Difference",
+  "description": "An AI-powered Find the Difference game. Upload an image, and AI generates subtle changes for you to find!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
